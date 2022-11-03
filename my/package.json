@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "star55t": "next start",
     "lint": "next lint",
     "lint2": "next lint",
     "lint3": "next lint"
